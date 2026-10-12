@@ -1,0 +1,12 @@
+﻿## Build / Debug Symbols
+*.pdb
+*.obj
+*.log
+
+## OS / Editor metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.vs/
+*.user
